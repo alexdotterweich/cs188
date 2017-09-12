@@ -4,5 +4,5 @@ locate clusters of multiple moving ghosts efficiently.
 
 Most of the files in this folder were provided for me - these are the ones I edited:
 
-<b> bustersAgents.py <\b> This file contains the agents for playing the "Ghostbusters" variant of Pacman.
-<b> inference.py <\b> This file contains code for tracking ghosts over time using their sounds.
+<b> bustersAgents.py </b> This file contains the agents for playing the "Ghostbusters" variant of Pacman.
+<b> inference.py </b> This file contains code for tracking ghosts over time using their sounds.
